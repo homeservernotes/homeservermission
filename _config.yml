@@ -1,2 +1,6 @@
 title: Home Server Group Mission Statement
 
+exclude:
+  - minima.gemspec
+  - README.md
+  - LICENSE.txt
