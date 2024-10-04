@@ -33,7 +33,6 @@
 * Control over media
 * other?  TBD
 
-asdfasdfasdf
 
 
 
